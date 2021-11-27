@@ -4,4 +4,4 @@ I have been employed in the tech industry since 2018, I also deliver freelance p
 
 I am also open to `open-source` projects, if you're looking for contributors I would be happy to help. Please don't hesitate to [reach out](mailto:ierahul20@gmail.com) to me if you have any questions, want to hire me for a freelance project, or even seek a mentor.
 
-When I'm not coding, you can find me exploring new places, trying new places to eat, liking cat pictures, or creating digital art.
+When I'm not coding, you can find me exploring new places, trying new places to eat, liking cat pictures, or [creating digital art](https://www.instagram.com/archive.sketch/).
