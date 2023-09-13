@@ -14,10 +14,10 @@ When I'm not coding, you can find me exploring new places, trying new places to 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahucrux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahucrux" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mouryarahul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mouryarahul/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/archive.sketch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/archive.sketch" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mouryarahul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mouryarahul/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/archive.sketch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/archive.sketch" height="30" width="40" /></a>
 <a href="https://medium.com/@i.e.rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@i.e.rahul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/brbtottyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/brbtottyl" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/brbtottyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/brbtottyl" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmourya336&show_icons=true&locale=en&layout=compact" alt="rahulmourya336" /></p>
