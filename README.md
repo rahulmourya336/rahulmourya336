@@ -8,7 +8,7 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=vercel&logoColor=9CA3AF)](https://rahulhome.vercel.app) [![Resume](https://img.shields.io/badge/Résumé-1F2937?style=flat-square&logo=readdotcv&logoColor=9CA3AF)](https://rahulhome.vercel.app/Rahul_Mourya_CV.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=9CA3AF)](https://www.linkedin.com/in/mouryarahul/) [![Medium](https://img.shields.io/badge/Medium-1F2937?style=flat-square&logo=medium&logoColor=9CA3AF)](https://medium.com/@i.e.rahul) [![Email](https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=9CA3AF)](mailto:ierahul20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=9CA3AF)](https://rahulhome.vercel.app) [![Resume](https://img.shields.io/badge/Résumé-1F2937?style=for-the-badge&logo=readdotcv&logoColor=9CA3AF)](https://rahulhome.vercel.app/Rahul_Mourya_CV.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=9CA3AF)](https://www.linkedin.com/in/mouryarahul/) [![Medium](https://img.shields.io/badge/Medium-1F2937?style=for-the-badge&logo=medium&logoColor=9CA3AF)](https://medium.com/@i.e.rahul) [![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=9CA3AF)](mailto:ierahul20@gmail.com)
 
 **Full stack engineer · 7+ years · React, TypeScript, Python, AWS · Based in India**
 
