@@ -1,70 +1,57 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./preview-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./preview-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
   <img src="assets/banner-dark.svg" alt="Rahul Mourya, Full Stack Engineer" width="100%">
 </picture>
 
-<br>
+<br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://rahulhome.vercel.app) [![Resume](https://img.shields.io/badge/Résumé-DC2626?style=for-the-badge&logo=readdotcv&logoColor=white)](https://rahulhome.vercel.app/Rahul_Mourya_CV.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouryarahul/) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@i.e.rahul) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ierahul20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=vercel&logoColor=9CA3AF)](https://rahulhome.vercel.app) [![Resume](https://img.shields.io/badge/Résumé-1F2937?style=flat-square&logo=readdotcv&logoColor=9CA3AF)](https://rahulhome.vercel.app/Rahul_Mourya_CV.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=9CA3AF)](https://www.linkedin.com/in/mouryarahul/) [![Medium](https://img.shields.io/badge/Medium-1F2937?style=flat-square&logo=medium&logoColor=9CA3AF)](https://medium.com/@i.e.rahul) [![Email](https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=9CA3AF)](mailto:ierahul20@gmail.com)
 
 </div>
 
 <br>
 
-> **Currently** building real-time contact center tooling for a Fortune 5 US healthcare client.
-> Before that, four years deep in US healthcare platforms.
+## About
+
+I build web products end to end, and have done since 2018. Most of that time has been spent on internal platforms in US healthcare, where the users are operations teams who live inside the tool all day and notice every second of latency.
+
+Right now I am at Miratech, building real-time contact center tooling for a Fortune 5 healthcare client. React and TypeScript on the front, Python on AWS Lambda behind it. Before that, four years of claims platforms, EDI automation, and framework migrations.
+
+I care most about the unglamorous parts: fast feedback loops, traceable systems, and code the next person can read without a meeting.
 
 <br>
 
-## 🧰 &nbsp;Stack
-
-<table align="center">
-<tr>
-<td align="center" width="180"><b>Languages</b></td>
-<td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="TypeScript, JavaScript, Python, HTML, CSS"></a></td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,vite,materialui,tailwind" alt="React, Next.js, Vue, Angular, Vite, MUI, Tailwind"></a></td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b></td>
-<td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres" alt="Node.js, Express, FastAPI, PostgreSQL"></a></td>
-</tr>
-<tr>
-<td align="center"><b>Cloud &amp; Tooling</b></td>
-<td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,vercel" alt="AWS, Docker, GitHub Actions, Git, Vercel"></a></td>
-</tr>
-</table>
-
-<div align="center"><sub>On AWS, mostly Lambda, DynamoDB, S3 and API Gateway.</sub></div>
-
-<br>
-
-## ⚙️ &nbsp;How I work
-
-<table>
-<tr><td width="60" align="center">🔁</td><td><b>Internal tools that people open twice.</b><br><sub>Adoption is the only real test.</sub></td></tr>
-<tr><td align="center">⚡</td><td><b>Fast feedback loops.</b><br><sub>Build times, hot reload, deploy speed.</sub></td></tr>
-<tr><td align="center">🔍</td><td><b>Debuggability first.</b><br><sub>I once unified frontend and backend Splunk queries so one query traces a whole user journey. Never went back.</sub></td></tr>
-<tr><td align="center">📖</td><td><b>Boring, readable code</b> over clever code.<br><sub>The next person to open this file matters.</sub></td></tr>
-</table>
-
-<br>
-
-## 🤝 &nbsp;Beyond the day job
-
-I take on freelance projects, contribute to open source when something interesting comes along, and enjoy mentoring. If any of that sounds useful, [get in touch](mailto:ierahul20@gmail.com).
-
-Off keyboard: exploring new places, hunting down food spots, liking cat pictures, and [making digital art](https://www.instagram.com/archive.sketch/).
-
-<br>
+## Stack
 
 <div align="center">
 
-<sub>⚡ Fun fact: I love cats 🐈</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img src="assets/stack-dark.svg" alt="TypeScript, JavaScript, Python, HTML5, CSS, React, Next.js, Vue, Angular, Vite, MUI, Tailwind, Node.js, Express, FastAPI, Postgres, AWS, Docker, GitHub Actions, Git, Vercel" width="100%">
+</picture>
 
 </div>
+
+<br>
+
+## How I work
+
+**Internal tools that people open twice.** Adoption is the only real test of an internal tool.
+
+**Fast feedback loops.** Build times, hot reload, and deploy speed compound over a team's whole year.
+
+**Debuggability first.** I once unified frontend and backend Splunk queries so a single query traces a whole user journey. Never went back.
+
+**Boring, readable code.** The next person to open the file matters more than the cleverness of the diff.
+
+<br>
+
+## Elsewhere
+
+Open to freelance work, occasional open source, and mentoring. The fastest way to reach me is [email](mailto:ierahul20@gmail.com).
+
+Off keyboard I am usually exploring somewhere new, hunting down food spots, or [making digital art](https://www.instagram.com/archive.sketch/).
