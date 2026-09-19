@@ -53,14 +53,17 @@
 
 ## Selected work
 
-**Shri Secure** · multi-tenant compliance platform<br>
+**[Shri Secure](https://shri-secure.vercel.app/)** · multi-tenant compliance platform<br>
 Author compliance frameworks once, collect answers and evidence from every client organisation, and review through to sign-off. Access is invite-only.
 
-**Inverter Guru** · power backup sizing calculator<br>
+**[Inverter Guru](https://inverter-battery-calc.vercel.app/)** · power backup sizing calculator<br>
 Tell it what you want to run during a power cut and it returns the inverter VA, battery Ah, battery count, and the 12V, 24V or 48V setup, in plain words. Domain maths hidden behind a simple interface.
 
-**100 Days of CSS** · learning platform<br>
+**[100 Days of CSS](https://learn-css-101.vercel.app/)** · learning platform<br>
 One hundred small, self-contained CSS builds, plus an interview questionnaire, a timed quiz, and a tagged reading list.
+
+**[Wallpaper Studio](https://wallpaper-genx.vercel.app/)** · generative wallpaper maker<br>
+Generative wallpapers for any screen, created in the browser.
 
 More detail and live demos on the [portfolio](https://rahulhome.vercel.app). I also write about React state management, error boundaries, and context performance on [Medium](https://medium.com/@i.e.rahul).
 
