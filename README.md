@@ -33,8 +33,8 @@ Off keyboard: exploring new places, hunting down food spots, liking cat pictures
 ### Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmourya336&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulmourya336&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmourya336&locale=en&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmourya336&layout=compact&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
