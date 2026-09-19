@@ -13,6 +13,13 @@ Things I care about when building:
 - Debuggability. I once unified frontend and backend Splunk queries so one query traces a whole user journey, and I have never gone back
 - Boring, readable code over clever code
 
+### Toolbox
+
+**Front:** React, Next.js, Vue, Angular, TypeScript, Vite, MUI, Tailwind
+**Back:** Node.js, Python, FastAPI, REST, WebSockets
+**Cloud and data:** AWS (Lambda, DynamoDB, S3, API Gateway), PostgreSQL, Docker
+**Everyday:** Git, GitHub Actions, Splunk, Playwright, Vercel
+
 I take on freelance projects, contribute to open source when something interesting comes along, and enjoy mentoring. If any of that sounds useful, [email me](mailto:ierahul20@gmail.com).
 
 Off keyboard: exploring new places, hunting down food spots, liking cat pictures, and [making digital art](https://www.instagram.com/archive.sketch/).
@@ -26,8 +33,8 @@ Off keyboard: exploring new places, hunting down food spots, liking cat pictures
 ### Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmourya336&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulmourya336&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmourya336&locale=en&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmourya336&locale=en&layout=compact&hide_border=true" alt="Top languages" />
 </p>
