@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./preview-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./preview-light.svg">
   <img src="assets/banner-dark.svg" alt="Rahul Mourya, Full Stack Engineer" width="100%">
 </picture>
 
